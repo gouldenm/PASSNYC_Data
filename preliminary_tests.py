@@ -8,6 +8,7 @@ school_explorer = "2016 School Explorer.csv"
 D5_SHSAT = "D5 SHSAT Registrations and Testers.csv"
 
 #  Read in datasets
+
 #  haven't read in all of them, because I got bored... Will add the rest later.
 school_info = []
 with open(school_explorer, "r") as f:
